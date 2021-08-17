@@ -1,0 +1,7 @@
+name: tf24
+channels:
+  - conda-forge
+dependencies:
+  - tensorflow-deps
+  - pillow
+  - matplotlib

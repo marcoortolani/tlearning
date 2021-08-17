@@ -5,9 +5,6 @@ dependencies:
   - keras-preprocessing >=1.1.2,<1.2
   - numpy >=1.19.2,<1.20
   - tensorboard==2.6.0
-  - tensorboard-data-server==0.6.1
-  - tensorboard-plugin-wit==1.8.0
-  - tensorflow-estimator==2.5.0
   - tensorflow-hub==0.12.0
   - tensorflow==2.5.0
   - pillow
